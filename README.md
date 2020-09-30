@@ -10,3 +10,8 @@ I'm Dipanshu, a Research Developer at Civil Machines Technologies Pvt. Ltd.
 <br><br>Contact me on <a href="https://www.linkedin.com/in/iamdipanshus/" target="_blank">LinkedIn</a> or <a href="mailto:dipanshu.singh1997@gmail.com">Send an Email</a>
   </samp>
 </p>
+<br><br>
+
+![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdipanshusingh&count_private=true&show_icons=true&theme=tokyonight)
+
+![Dipanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamdipanshusingh&theme=tokyonight)
