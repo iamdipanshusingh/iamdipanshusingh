@@ -14,4 +14,6 @@ I'm Dipanshu, a Research Developer at Civil Machines Technologies Pvt. Ltd.
 
 ![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdipanshusingh&count_private=true&show_icons=true&theme=tokyonight)
 
+![Dipanshu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdipanshusingh&theme=tokyonight)
+
 ![Dipanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamdipanshusingh&theme=tokyonight)
