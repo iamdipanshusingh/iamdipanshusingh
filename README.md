@@ -6,8 +6,8 @@
   <samp>
 I'm Dipanshu, a Research Developer at Civil Machines Technologies Pvt. Ltd.
 <br>:iphone: I mainly develop mobile apps using the Flutter framework.
-<br>:fire: Technologies I work on: :iphone: Flutter, Android and :globe_with_meridians: React
-<br><br>Contact me on <a href="https://www.linkedin.com/in/iamdipanshus/" target="_blank">LinkedIn</a> or <a href="mailto:dipanshu.singh1997@gmail.com">Send an Email</a>
+<br>:fire: Technologies I work on: :iphone: Flutter and :globe_with_meridians: React
+<br><br>Contact me on <a href="https://www.linkedin.com/in/iamdipanshus/" target="_blank">LinkedIn</a> or <a href="mailto:me@iamdipanshus.in">Send an Email</a>
   </samp>
 </p>
 <br><br>
@@ -15,5 +15,3 @@ I'm Dipanshu, a Research Developer at Civil Machines Technologies Pvt. Ltd.
 ![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdipanshusingh&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Dipanshu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdipanshusingh&theme=tokyonight)
-
-![Dipanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamdipanshusingh&theme=tokyonight)
