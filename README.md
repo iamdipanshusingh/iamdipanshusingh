@@ -4,11 +4,11 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-I'm Dipanshu, a Research Developer at Civil Machines Technologies Pvt. Ltd.
-<br>:iphone: I mainly develop mobile apps using the Flutter framework.
-<br>:fire: Technologies I work on: :iphone: Flutter and :globe_with_meridians: React
-<br><br>Visit my :globe_with_meridians: <a href="https://iamdipanshus.in">Website</a>
-<br>Or Contact me on <a href="https://www.linkedin.com/in/iamdipanshus/" target="_blank">LinkedIn</a> or <a href="mailto:me@iamdipanshus.in">Send an Email</a>
+I'm Dipanshu,
+<br>
+    I develop mobile apps using Flutter.
+<br>
+    Contact me on <a href="https://www.linkedin.com/in/iamdipanshus/" target="_blank">LinkedIn</a> or <a href="mailto:me@iamdipanshus.in">Send an Email</a>
   </samp>
 </p>
 <br><br>
