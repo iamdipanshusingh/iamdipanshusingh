@@ -14,7 +14,3 @@ I'm Dipanshu,
 <br><br>
 
 ![e-card](https://user-images.githubusercontent.com/38358260/149655474-790cc2b3-3062-4431-9a04-a085ac6b7500.jpg)
-
-![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdipanshusingh&count_private=true&show_icons=true&theme=tokyonight)
-
-![Dipanshu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdipanshusingh&theme=tokyonight)
